@@ -1,0 +1,10 @@
+
+public class Whileloop {
+	public static void main(String[] args) {
+		
+		boolean loop = 4 < 6;
+		System.out.println(loop);
+
+	}
+
+}
